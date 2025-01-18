@@ -46,7 +46,9 @@ The following dependencies are used in the project:
 
 ## 🖼️ App Preview
 
-![Step Counter Preview](./assets/preview.png)
+<div align="center">
+  <img src="./assets/preview.png" alt="Step Counter Preview" width="450" height="400">
+</div>
 
 ---
 
