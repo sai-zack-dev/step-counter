@@ -3,7 +3,7 @@
 
 **Step Counter** is a practice Android app built with React Native, using **Expo Sensors** for tracking steps. This app displays step count and estimates calories burned in a clean and visually engaging interface.
 
-![Walking Animation](./assets/screens/walking.gif)
+![Walking Animation](./assets/walking.gif)
 
 ---
 
@@ -46,7 +46,7 @@ The following dependencies are used in the project:
 
 ## 🖼️ App Preview
 
-![Step Counter Preview](./assets/screens/preview.png)
+![Step Counter Preview](./assets/preview.png)
 
 ---
 
